@@ -9,15 +9,14 @@ There's even a no-summon patch for the current Dawn of Djinn Second Mix demo, fo
 - Apply the patch to your ROM via a tool such as Lunar IPS.
 	## Disclaimer:
   Patch must be applied to a clean US ROM of Golden Sun 1.  Applying this patch to other mods may result in techincal glitches.
-  Patches that would work on an already modded ROM, such as the auto run and cutscene skip patches, can be applied afterwords without techincal difficulites.
+  Patches that would work on an already modded ROM, such as the auto run and cutscene skip patches, can be applied afterwords without technical difficulties.
 
 # Challenge Types (By Filename):
 - SoloRun: Makes doing solo runs easier by having each party member come with a "Death Charm". This item will instantly down the user when used.
 
 - NoSummon: Turns all summons into the "Nothing" command. This immediately ends the user's turn without doing damage. However, it still treated as a summon in the sense of putting Djinn into recovery and give the user an elemental boost. This patch also comes with the Death Charm item, for those that want to do this challenge as a solo run as well.
 
-- MonoFire: All Psynergy, Djinn, weapons, and summons you have access to will be of fire or netural elemental power. Preventing you from having access to any other elements for attack, excluding battle items. All party members will start as fire adapts by default. Some classes have had altered Djinn requirements to still be accessible in this new mode; though you still will be unable to create certain classes, such as the Squire line.
-Also includes the Death Charm in case you wish to do a Solo run.
+- MonoFire: All Psynergy, Djinn, weapons, and summons you have access to will be of fire or neutral elemental power. Preventing you from having access to any other elements for attack, excluding battle items. All party members will start as fire adapts by default. Some classes have had altered Djinn requirements to still be accessible in this new mode; though you still will be unable to create certain classes, such as the Squire line.
 
 - MonoFire_NoSummon: A combination of the NoSummon and MonoFire patches. Allowing you to do a mono fire challenge run without access to summons. Also includes the Death Charm in case you wish to do a Solo run.
 
